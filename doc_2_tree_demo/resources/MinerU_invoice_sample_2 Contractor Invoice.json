@@ -1,0 +1,577 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        262,
+                        72,
+                        349,
+                        85
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                262,
+                                72,
+                                349,
+                                85
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        262,
+                                        72,
+                                        349,
+                                        85
+                                    ],
+                                    "type": "text",
+                                    "content": "Contractor Name"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        258,
+                        87,
+                        353,
+                        99
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                258,
+                                87,
+                                353,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        258,
+                                        87,
+                                        353,
+                                        99
+                                    ],
+                                    "type": "text",
+                                    "content": "Contractor Address"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        251,
+                        100,
+                        361,
+                        114
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                251,
+                                100,
+                                361,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        251,
+                                        100,
+                                        361,
+                                        114
+                                    ],
+                                    "type": "text",
+                                    "content": "Anytown, USA 00000"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        87,
+                        155,
+                        204,
+                        168
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                155,
+                                204,
+                                168
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        155,
+                                        204,
+                                        168
+                                    ],
+                                    "type": "text",
+                                    "content": "Independent Contractor"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "bbox": [
+                        89,
+                        169,
+                        178,
+                        180
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                169,
+                                178,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        169,
+                                        178,
+                                        180
+                                    ],
+                                    "type": "text",
+                                    "content": "SS#xxx-xx-xxxx"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        87,
+                        210,
+                        187,
+                        223
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                210,
+                                187,
+                                223
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        210,
+                                        187,
+                                        223
+                                    ],
+                                    "type": "text",
+                                    "content": "Invoice # ISAW007"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        87,
+                        237,
+                        156,
+                        251
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                237,
+                                156,
+                                251
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        237,
+                                        156,
+                                        251
+                                    ],
+                                    "type": "text",
+                                    "content": "Date: 6/15/10"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "bbox": [
+                        86,
+                        279,
+                        183,
+                        292
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                279,
+                                183,
+                                292
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        279,
+                                        183,
+                                        292
+                                    ],
+                                    "type": "text",
+                                    "content": "Services Rendered:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "bbox": [
+                        86,
+                        293,
+                        515,
+                        308
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                293,
+                                515,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        293,
+                                        515,
+                                        308
+                                    ],
+                                    "type": "text",
+                                    "content": "Preparation and uploading of photos to an online image bank for ISAW's digital library"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        86,
+                        361,
+                        122,
+                        374
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                86,
+                                361,
+                                122,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        361,
+                                        122,
+                                        374
+                                    ],
+                                    "type": "text",
+                                    "content": "Hours:"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        88,
+                        376,
+                        211,
+                        388
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                376,
+                                211,
+                                388
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        376,
+                                        211,
+                                        388
+                                    ],
+                                    "type": "text",
+                                    "content": "05/25/10 - 3 hours"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        89,
+                        390,
+                        211,
+                        402
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                390,
+                                211,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        390,
+                                        211,
+                                        402
+                                    ],
+                                    "type": "text",
+                                    "content": "05/27/10 - 3 hours"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "bbox": [
+                        89,
+                        404,
+                        211,
+                        415
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                404,
+                                211,
+                                415
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        404,
+                                        211,
+                                        415
+                                    ],
+                                    "type": "text",
+                                    "content": "06/01/10 - 3 hours"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "bbox": [
+                        89,
+                        418,
+                        211,
+                        429
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                418,
+                                211,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        418,
+                                        211,
+                                        429
+                                    ],
+                                    "type": "text",
+                                    "content": "06/02/10 - 8 hours"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "bbox": [
+                        87,
+                        444,
+                        266,
+                        459
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                444,
+                                266,
+                                459
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        444,
+                                        266,
+                                        459
+                                    ],
+                                    "type": "text",
+                                    "content": "TOTAL - 17 hours @ $15/hr"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "bbox": [
+                        87,
+                        486,
+                        227,
+                        498
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                486,
+                                227,
+                                498
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        486,
+                                        227,
+                                        498
+                                    ],
+                                    "type": "text",
+                                    "content": "Total Amount Due: $255.00"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "bbox": [
+                        87,
+                        514,
+                        197,
+                        529
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                514,
+                                197,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        514,
+                                        197,
+                                        529
+                                    ],
+                                    "type": "text",
+                                    "content": "Please Pay on Receipt"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.6.4"
+}

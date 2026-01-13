@@ -1,0 +1,53 @@
+<div class="json-tree-container">
+  <div class="header">
+    <h1>JSON Tree Viewer</h1>
+    <div class="file-selector">
+      <label for="json-file">Select JSON File:</label>
+      <select id="json-file" [(ngModel)]="selectedFile" (change)="onFileChange()">
+        @for (file of files; track file) {
+          <option [value]="file">{{ file }}</option>
+        }
+      </select>
+    </div>
+  </div>
+
+  <div class="tree-wrapper">
+    @if (treeData.length > 0) {
+      <p-tree
+        [value]="treeData"
+        selectionMode="checkbox"
+        [(selection)]="selectedNodes"
+        (nodeSelect)="nodeSelect($event)"
+        (nodeUnselect)="nodeUnselect($event)"
+        styleClass="json-tree"
+      >
+        <ng-template pTemplate="node" let-node>
+          <div class="tree-node">
+            <span class="node-label">{{ node.label }}</span>
+            @if (node.leaf) {
+              <span class="node-type">leaf</span>
+            }
+          </div>
+        </ng-template>
+      </p-tree>
+    } @else {
+      <div class="no-data">
+        <p>No data available</p>
+      </div>
+    }
+  </div>
+
+  @if (selectedNodes.length > 0) {
+    <div class="selection-info">
+      <div class="selection-header">
+        <h3>Selected Nodes ({{ selectedNodes.length }})</h3>
+        <button pButton type="button" label="Export" (click)="exportSelectedNodes()"></button>
+      </div>
+      <ul>
+        @for (node of selectedNodes; track node) {
+          <li><p>{{ node.label }}</p> <p>{{ node.brief }}</p> </li>
+        }
+      </ul>
+    </div>
+  }
+</div>

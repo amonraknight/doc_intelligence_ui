@@ -1,0 +1,283 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        88,
+                        97,
+                        382,
+                        117
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                97,
+                                382,
+                                117
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        97,
+                                        382,
+                                        117
+                                    ],
+                                    "type": "text",
+                                    "content": "This is the title of the document"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        88,
+                        144,
+                        170,
+                        156
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                88,
+                                144,
+                                170,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        144,
+                                        170,
+                                        156
+                                    ],
+                                    "type": "text",
+                                    "content": "Words in between."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        82,
+                        212,
+                        511,
+                        762
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                88,
+                                178,
+                                220,
+                                195
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        88,
+                                        178,
+                                        220,
+                                        195
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                88,
+                                                178,
+                                                220,
+                                                195
+                                            ],
+                                            "type": "text",
+                                            "content": "This is a subtitle."
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "angle": 0,
+                            "type": "table_caption"
+                        },
+                        {
+                            "bbox": [
+                                82,
+                                212,
+                                511,
+                                762
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        82,
+                                        212,
+                                        511,
+                                        762
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                82,
+                                                212,
+                                                511,
+                                                762
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>Column 1</td><td>Column 2</td><td>Column 3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/6bb205e1-5760-4337-899b-39b3cb949581/a8559c2447f51f9335cc0a83454735cc114aa5b69bc0125052432c689f0d6df5.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 3,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 3
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        86,
+                        73,
+                        379,
+                        132
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                86,
+                                73,
+                                379,
+                                132
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        86,
+                                        73,
+                                        379,
+                                        132
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                86,
+                                                73,
+                                                379,
+                                                132
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr><tr><td>1</td><td>2</td><td>3</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/6bb205e1-5760-4337-899b-39b3cb949581/fce7901c461413c278941b09f9cd1ec8b9f7385275d7aeb93e01955f33b7a678.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        455,
+                        153,
+                        505,
+                        164
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                455,
+                                153,
+                                505,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        455,
+                                        153,
+                                        505,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "2026.01.13"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        430,
+                        168,
+                        505,
+                        179
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                430,
+                                168,
+                                505,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        430,
+                                        168,
+                                        505,
+                                        179
+                                    ],
+                                    "type": "text",
+                                    "content": "This is a footer."
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 1
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.6.4"
+}

@@ -1,0 +1,3056 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        159,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                159,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        159,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                159,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/79d6eefcfd5c4581ca54b2b8f32f63fa3506d4050edb537886b9d98c0857827e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        248,
+                        60,
+                        352,
+                        76
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                60,
+                                352,
+                                76
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        60,
+                                        352,
+                                        76
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        352,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                352,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        352,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        187,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/87a7ed69f466fe0ec0e7f822be1bf19c75c5ad5d84dd92b3bdf641ea5b7bc6b9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas | EU | ASIA | AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        39,
+                        144,
+                        571,
+                        339
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                39,
+                                144,
+                                571,
+                                339
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        144,
+                                        571,
+                                        339
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                39,
+                                                144,
+                                                571,
+                                                339
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"3\">DOCUMENT DETAILS</td></tr><tr><td>PROJECT NAME</td><td>MODULE</td><td>Business Scenario:</td></tr><tr><td>SUGAM</td><td>FICO</td><td>FINANCE &amp; CONTROLLING</td></tr><tr><td>MODULE LEAD - BSPTCL</td><td>MODULE LEAD - YASH</td><td>PROCESS OWNER</td></tr><tr><td>Shri. Pradeep Kumar</td><td>Narasimha Rao N</td><td>Ajay Rai</td></tr><tr><td>BBP NUMBER AS PER BPML</td><td>PROCESS NAME</td><td></td></tr><tr><td></td><td>FICO</td><td></td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/22db5b7a20d9041fac45465f66d8f47b46e58eb8b4c0d692bf1ccba899bb987e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        39,
+                        361,
+                        570,
+                        608
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                39,
+                                361,
+                                570,
+                                608
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        39,
+                                        361,
+                                        570,
+                                        608
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                39,
+                                                361,
+                                                570,
+                                                608
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"2\">AUTHORS &amp; PARTICIPANTS</td></tr><tr><td>Role</td><td>Name</td></tr><tr><td>Core Team Members</td><td>Sri. Chandan Kumar\nSri. Mrutyunjay\nMs. Shweta\nSri. Ravindra Singh\nSri. Anand Shekhar\nSri. Shivendra Kashyap\nSri. Ajay Kumar\nSri. Ajay Kumar IT (BPO)\nSri. Rahul IT (Manager)</td></tr><tr><td>Consultant</td><td>Naveen</td></tr><tr><td>Business Process Owner</td><td>Ajay Rai</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/32f23e58d598567fec02409206a7c6d399c98f89891b19c9b46c4e0c85ef3782.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        42,
+                        629,
+                        567,
+                        715
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                42,
+                                629,
+                                567,
+                                715
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        42,
+                                        629,
+                                        567,
+                                        715
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                42,
+                                                629,
+                                                567,
+                                                715
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"5\">REVISION HISTORY</td></tr><tr><td>Date</td><td>Document Version</td><td>Document Revision Description</td><td>Author</td><td>Reviewer</td></tr><tr><td>04.02.2019</td><td>0.1</td><td>User Manual Preparation</td><td>Vivek</td><td>Naveen</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/6ecae5c0d8e014fc002e3364ebd08ae1b5ca493f3c23678a5216dac5b57e2d39.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 0
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/92fa9d56c30b302df3898e8f6c464f72984f38d81dca5c96f53c8fd3c196b9c2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        248,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        188,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/f27f8f3f8562e19498408a3eff2d8a5d442ebeb8c802e04e414f482395666912.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "bbox": [
+                        69,
+                        148,
+                        309,
+                        164
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                148,
+                                309,
+                                164
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        148,
+                                        309,
+                                        164
+                                    ],
+                                    "type": "text",
+                                    "content": "1.1. Post Customer Invoice Booking"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        174,
+                        542,
+                        213
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                174,
+                                542,
+                                213
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        174,
+                                        542,
+                                        213
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                174,
+                                                542,
+                                                213
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>FB70</td></tr><tr><td>Process</td><td>Enter FB70 in Transaction box and click Enter or Tick symbol</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/b7cbedfcc250a9d74af928492658edc3e4b9f4e2aca1eccf136645ca0d88dece.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        236,
+                        542,
+                        324
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                236,
+                                542,
+                                324
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        236,
+                                        542,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                236,
+                                                542,
+                                                324
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/6390761dd65fee3f045d74e4e540bc19a541bb81b0f752db064330f233a47898.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        335,
+                        542,
+                        460
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                335,
+                                542,
+                                460
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        335,
+                                        542,
+                                        460
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                335,
+                                                542,
+                                                460
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>FB70</td></tr><tr><td>Process</td><td>• Go to Basic Data Tab - Enter Customer number - Enter invoice date - Posting date - Enter reference, example bill number - Enter Amount - Enter Business place and Section code - Enter text - Enter G/L - Enter amount -Tax Code - Enter profit centre - Go to Withholding Tab - Give WHT Code - Simulate</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/85c22c424667bac1358ec47c713e9fc3f279e6955f181f5fad26edb3a43f4984.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        485,
+                        542,
+                        723
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                485,
+                                542,
+                                723
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        485,
+                                        542,
+                                        723
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                485,
+                                                542,
+                                                723
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/c3c22ac977db682269c562755b113f3c1724c471cdd9e97740c6db36a590de97.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 1
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/5e18cbf664e8006097a17d169baa0fcdd945377e4a30c396ba3171a670f08370.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        248,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        188,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/f4e456501046941ce845c1d3b5639323730ebe1ca1fed7a1bfc54cbc80d161f0.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        146,
+                        542,
+                        268
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                146,
+                                542,
+                                268
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        146,
+                                        542,
+                                        268
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                146,
+                                                542,
+                                                268
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/72869d2bd0b954d71205b6b5de3cc4bb2aeae55f9543f7b1794da3f621fbfd0b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        279,
+                        542,
+                        318
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                279,
+                                542,
+                                318
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        279,
+                                        542,
+                                        318
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                279,
+                                                542,
+                                                318
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>FB70</td></tr><tr><td>Process</td><td>Accounting Entry Generated - Save</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/c264cccb9f21c5bb7c2b4741df183255bfaa3246878182b711ccb6673ce3d772.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        342,
+                        542,
+                        522
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                342,
+                                542,
+                                522
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        342,
+                                        542,
+                                        522
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                342,
+                                                542,
+                                                522
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/e7fdd4671a5494be5ad5d713afb634cafcd2efc3197926205c60be9d5c404d7c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        72,
+                        539,
+                        86,
+                        555
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                539,
+                                86,
+                                555
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        539,
+                                        86,
+                                        555
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                539,
+                                                86,
+                                                555
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/a7b9a01c2557eea98b064a7e7b1487006b7a6803239833fab5b91a035aac4622.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        87,
+                        540,
+                        335,
+                        554
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                540,
+                                335,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        540,
+                                        335,
+                                        554
+                                    ],
+                                    "type": "text",
+                                    "content": "Document 1800000072 was posted in company code 1000"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "bbox": [
+                        69,
+                        571,
+                        230,
+                        588
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                571,
+                                230,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        571,
+                                        230,
+                                        588
+                                    ],
+                                    "type": "text",
+                                    "content": "1.2. Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        598,
+                        542,
+                        639
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                598,
+                                542,
+                                639
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        598,
+                                        542,
+                                        639
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                598,
+                                                542,
+                                                639
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>F-28</td></tr><tr><td>Process</td><td>Enter F-28 in Transaction box and click Enter or Tick symbol</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/05fcbae06ed0591d66b0718edbdf21805a3ffea9a0637e11547cf997e2dfcd37.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        663,
+                        542,
+                        721
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                663,
+                                542,
+                                721
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        663,
+                                        542,
+                                        721
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                663,
+                                                542,
+                                                721
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/9537bc49f88ef98ffe937800281dce5dc1113ec0d0b253b0bbfc8015861e0721.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 2
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/e6ff7f90390e08a9c991a3b61fc6a60df18c663dd7f78d0b4ea131a8e13ee54d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        248,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        187,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/f54797628423f4d1fe1c349082210e8c04d16060e7c130859b616df7895e8a54.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        63,
+                        144,
+                        542,
+                        251
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                144,
+                                542,
+                                251
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        144,
+                                        542,
+                                        251
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                144,
+                                                542,
+                                                251
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>F-28</td></tr><tr><td>Process</td><td>Enter document date (date when the payment is made) &amp; Posting date - Enter reference - Enter Bank Account Number - Enter amount - Enter text - Enter Cmodernumber - After filling the details, press enter or click on process open items</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/fe609accc7f04fc7ecd128d01b1fda0678057502c9db5012c00c22bc6bf740a1.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        67,
+                        274,
+                        542,
+                        552
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                67,
+                                274,
+                                542,
+                                552
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        67,
+                                        274,
+                                        542,
+                                        552
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                67,
+                                                274,
+                                                542,
+                                                552
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/2d1c9274629d4cfd3d041e4f4b9e5993a1c9ac52bd73024d6161fabc5242c093.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        63,
+                        561,
+                        542,
+                        645
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                63,
+                                561,
+                                542,
+                                645
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        63,
+                                        561,
+                                        542,
+                                        645
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                63,
+                                                561,
+                                                542,
+                                                645
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>F-28</td></tr><tr><td>Process</td><td>Select all – Deactivate - Select the items that needs to be cleared and click on document menu option and select simulate – Save – Document Generated</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/f39c728289b1f3a9799e35a02eaae781f0e57429922ae9aff12a152c58e71228.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 3
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/3c2e93804b6c83cf4d2ae0b03095414a1088bdb9fd163d635d66791b782b5b40.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        248,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                248,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        248,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        187,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                187,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        187,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        56,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                56,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        56,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                56,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/d9096c505ac076ec73d4895476a7efffa8684ee13a69606b18aae4386973ead3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        145,
+                        544,
+                        425
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                145,
+                                544,
+                                425
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        145,
+                                        544,
+                                        425
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                145,
+                                                544,
+                                                425
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/e7920ac5dcfca958e201a0be3ce86b8f13e3d2ee55656f7db62a4531a54980ed.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        460,
+                        542,
+                        501
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                460,
+                                542,
+                                501
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        460,
+                                        542,
+                                        501
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                460,
+                                                542,
+                                                501
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>F-28</td></tr><tr><td>Process</td><td>Double click on 1 .00 Line item and give * - Enter</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/161873cfb4b8b6ef22c5ba4af7b83cdf22194da1e158c145c8752e34793f2c53.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        70,
+                        525,
+                        543,
+                        697
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                70,
+                                525,
+                                543,
+                                697
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        525,
+                                        543,
+                                        697
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                70,
+                                                525,
+                                                543,
+                                                697
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/4ba87a476250b61892e2d06aa1774dc6689b2e94bc1f68de835fcc27b3cd920e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 4
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/1a4f689418f85cbd2d9966da45296f0804cb8be7f1b1db9902d783089941abe6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        249,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        188,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/9accae83bb4c5100450ea2be292c7e1c884ced351541d644ba1f09fe4743157c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        64,
+                        221,
+                        542,
+                        262
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                64,
+                                221,
+                                542,
+                                262
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        64,
+                                        221,
+                                        542,
+                                        262
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                64,
+                                                221,
+                                                542,
+                                                262
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>F-28</td></tr><tr><td>Process</td><td>Click on document simulate - Accounting Entry generated - Save</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/10365877fc65bf803da0f9ad80cb76ff2d0fc257e8731357a545b8696856efd4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        286,
+                        542,
+                        521
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                286,
+                                542,
+                                521
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        286,
+                                        542,
+                                        521
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                286,
+                                                542,
+                                                521
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/184c212e89dc964dda49d5c8b983b18bf6d67879fe497f1ad0909a97ab7ac1ec.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        72,
+                        536,
+                        87,
+                        551
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                72,
+                                536,
+                                87,
+                                551
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        72,
+                                        536,
+                                        87,
+                                        551
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                72,
+                                                536,
+                                                87,
+                                                551
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/bab4b796937ce09f4f967d6a6d04ae2b30318796c34b242adff96287163bcccc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        89,
+                        537,
+                        336,
+                        551
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                89,
+                                537,
+                                336,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        89,
+                                        537,
+                                        336,
+                                        551
+                                    ],
+                                    "type": "text",
+                                    "content": "Document 1400000041 was posted in company code 1000"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        568,
+                        542,
+                        609
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                568,
+                                542,
+                                609
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        568,
+                                        542,
+                                        609
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                568,
+                                                542,
+                                                609
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>FB08</td></tr><tr><td>Process</td><td>Input FB08</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/6c083fedcee2d91349a75d7aef581a70b633d2f923c3d1ea87a2757d8142922a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        633,
+                        542,
+                        723
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                633,
+                                542,
+                                723
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        633,
+                                        542,
+                                        723
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                633,
+                                                542,
+                                                723
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/7cc5d37c8c3c27008af1cb3912d91fa6cb3cc2f1ae8e26333b4fcd740bc1bc32.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 5
+        },
+        {
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        78,
+                        49,
+                        157,
+                        117
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                78,
+                                49,
+                                157,
+                                117
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        78,
+                                        49,
+                                        157,
+                                        117
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                78,
+                                                49,
+                                                157,
+                                                117
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/84aff2123f793885ddb3ffe3e1f755207a9ed7739d97479685f4ea8d0b69b4ac.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 0,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "bbox": [
+                        249,
+                        60,
+                        351,
+                        75
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                60,
+                                351,
+                                75
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        60,
+                                        351,
+                                        75
+                                    ],
+                                    "type": "text",
+                                    "content": "Project - SUGAM"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "bbox": [
+                        249,
+                        78,
+                        351,
+                        91
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                249,
+                                78,
+                                351,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        249,
+                                        78,
+                                        351,
+                                        91
+                                    ],
+                                    "type": "text",
+                                    "content": "End User Manual"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "bbox": [
+                        188,
+                        95,
+                        413,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                188,
+                                95,
+                                413,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        188,
+                                        95,
+                                        413,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Customer Invoice &Incoming Payment"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        449,
+                        55,
+                        526,
+                        95
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                449,
+                                55,
+                                526,
+                                95
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        449,
+                                        55,
+                                        526,
+                                        95
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                449,
+                                                55,
+                                                526,
+                                                95
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/c2dfa09d96d6f2f700514266281d48394c797600dc04ab7f12b37d0c63569ca6.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "bbox": [
+                        451,
+                        102,
+                        525,
+                        110
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                451,
+                                102,
+                                525,
+                                110
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        451,
+                                        102,
+                                        525,
+                                        110
+                                    ],
+                                    "type": "text",
+                                    "content": "Americas|EU|ASIA|AUS"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        65,
+                        247,
+                        542,
+                        309
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                65,
+                                247,
+                                542,
+                                309
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        65,
+                                        247,
+                                        542,
+                                        309
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                65,
+                                                247,
+                                                542,
+                                                309
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td>SAP T-code</td><td>FB08</td></tr><tr><td>Process</td><td>Document Number - Company Code - Fiscal Year - Reversal Reason - Posting Date - Posting Period - Save</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/bfadfcd56be9f9663d812f38fe22f468f868fd4c17eb9d0551a18ee87fd3bd09.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        71,
+                        333,
+                        542,
+                        591
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                71,
+                                333,
+                                542,
+                                591
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        333,
+                                        542,
+                                        591
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                71,
+                                                333,
+                                                542,
+                                                591
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/188fb20c2352bf056b10f5c82b86619a3c5a5e77d2e40d6a0fa2039c66ee07c4.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 7,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        73,
+                        605,
+                        86,
+                        620
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                73,
+                                605,
+                                86,
+                                620
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        73,
+                                        605,
+                                        86,
+                                        620
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                73,
+                                                605,
+                                                86,
+                                                620
+                                            ],
+                                            "type": "image",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/660b0d0e-c093-400a-bb0d-6f261a81a10a/4787769f4254f6bb7fbdc873e093e90a9e2da902c02651e721959bbeeeaa0c60.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "angle": 0,
+                            "type": "image_body"
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "bbox": [
+                        87,
+                        607,
+                        334,
+                        619
+                    ],
+                    "type": "text",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                87,
+                                607,
+                                334,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        87,
+                                        607,
+                                        334,
+                                        619
+                                    ],
+                                    "type": "text",
+                                    "content": "Document 1800000074 was posted in company code 1000"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "bbox": [
+                        259,
+                        639,
+                        361,
+                        656
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                259,
+                                639,
+                                361,
+                                656
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        259,
+                                        639,
+                                        361,
+                                        656
+                                    ],
+                                    "type": "text",
+                                    "content": "Manual End"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                612,
+                792
+            ],
+            "page_idx": 6
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.6.4"
+}

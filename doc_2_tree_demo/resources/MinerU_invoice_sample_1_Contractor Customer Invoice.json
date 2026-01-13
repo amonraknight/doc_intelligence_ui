@@ -1,0 +1,95 @@
+{
+    "pdf_info": [
+        {
+            "para_blocks": [
+                {
+                    "bbox": [
+                        69,
+                        71,
+                        476,
+                        84
+                    ],
+                    "type": "title",
+                    "angle": 0,
+                    "lines": [
+                        {
+                            "bbox": [
+                                69,
+                                71,
+                                476,
+                                84
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        71,
+                                        476,
+                                        84
+                                    ],
+                                    "type": "text",
+                                    "content": "Example of a reverse charge invoice for one contract with different VAT rates"
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        69,
+                        107,
+                        523,
+                        618
+                    ],
+                    "blocks": [
+                        {
+                            "bbox": [
+                                69,
+                                107,
+                                523,
+                                618
+                            ],
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        107,
+                                        523,
+                                        618
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                69,
+                                                107,
+                                                523,
+                                                618
+                                            ],
+                                            "type": "table",
+                                            "html": "<table><tr><td colspan=\"5\">INVOICE\nFrom: Sub-contractor (Supplier)\nSupplier&#x27;s Address:\nSupplier&#x27;s VAT Registration No:</td></tr><tr><td colspan=\"5\">To: Contractor (Customer)\nCustomer&#x27;s Address:\nCustomer&#x27;s VAT Registration No:</td></tr><tr><td colspan=\"5\">Invoice No:\nInvoice Date:</td></tr><tr><td>Description</td><td>Net (£)</td><td>VAT Rate</td><td>VAT (£)</td><td>Gross (£)</td></tr><tr><td>Refurbishment of commercial premises</td><td>200,000</td><td>20%</td><td>Reverse charge applies</td><td>200,000</td></tr><tr><td>Conversion of office block to residential housing</td><td>150,000</td><td>5%</td><td>Reverse charge applies</td><td>150,000</td></tr><tr><td>Total</td><td>350,000</td><td></td><td></td><td>350,000</td></tr><tr><td colspan=\"5\">Customer to account to HMRC for the reverse charge output tax on the VAT exclusive price of items marked &#x27;reverse charge&#x27; at the relevant VAT rate as shown above.</td></tr></table>",
+                                            "image_path": "https://cdn-mineru.openxlab.org.cn/result/2026-01-13/716b6fe8-461d-4faf-91c3-a409bfc4bd14/c62a0538a3d0cf703418fc2a874d516f6acbef0624ceee05b79fa19d2abea728.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "angle": 0,
+                            "type": "table_body"
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "discarded_blocks": [],
+            "page_size": [
+                595,
+                841
+            ],
+            "page_idx": 0
+        }
+    ],
+    "_backend": "vlm",
+    "_version_name": "2.6.4"
+}

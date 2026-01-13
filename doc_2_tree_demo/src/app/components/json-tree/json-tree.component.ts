@@ -57,7 +57,7 @@ export class JsonTreeComponent implements OnInit {
   }
 
   exportSelectedNodes(): void {
-    const xpaths = this.selectedNodes.map(node => node.xpath).filter(xpath => xpath);
+    const xpaths = this.selectedNodes.filter(node => node.leaf).map(node => node.xpath).filter(xpath => xpath);
     console.log('Selected XPaths:', xpaths);
   }
 }

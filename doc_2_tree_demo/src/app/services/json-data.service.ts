@@ -43,56 +43,111 @@ export class JsonDataService {
       xpath: currentXpath
     };
 
-    if (page.para_blocks && Array.isArray(page.para_blocks)) {
-      pageNode.children = page.para_blocks
-        .map((block: any) => this.processBlock(block, currentXpath))
-        .filter((node: TreeNode) => node !== null);
-    }
-
-    pageNode.leaf = !pageNode.children || pageNode.children.length === 0;
-    return pageNode;
-  }
-
-  private processBlock(block: any, xpath: string = ''): TreeNode | null {
-    if (!block || typeof block !== 'object') {
-      return null;
-    }
-
-    const hasPageIdx = block.page_idx !== undefined;
-    const hasType = block.type !== undefined;
-
-    if (!hasPageIdx && !hasType) {
-      return null;
-    }
-
-    const currentXpath = xpath ? `${xpath}/${block.type}` : block.type;
-    
-    const brief = this.extractBrief(block);
-
-    const node: TreeNode = {
-      label: hasPageIdx ? `page${block.page_idx}` : block.type,
-      children: [],
-      leaf: false,
-      brief: brief,
-      xpath: currentXpath
-    };
-
-    Object.keys(block).forEach((key) => {
-      const value = block[key];
+    Object.keys(page).forEach((key) => {
+      const value = page[key];
 
       if (key === 'page_idx' || key === 'type') {
         return;
       }
 
       if (Array.isArray(value)) {
-        const childNodes = value
-          .map((item: any) => this.processBlock(item, currentXpath))
-          .filter((n: TreeNode | null) => n !== null);
+        const childNodes = this.processArray(value, currentXpath, key);
+        if (childNodes.length > 0) {
+          pageNode.children!.push(...childNodes);
+        }
+      } else if (typeof value === 'object' && value !== null) {
+        const childNode = this.processObject(value, currentXpath, key);
+        if (childNode) {
+          pageNode.children!.push(childNode);
+        }
+      }
+    });
+
+    pageNode.leaf = !pageNode.children || pageNode.children.length === 0;
+    return pageNode;
+  }
+
+  private processArray(items: any[], xpath: string, arrayType: string): TreeNode[] {
+    return items.map((item: any, index: number) => {
+      const itemXpath = `${xpath}/${arrayType}[${index}]`;
+      return this.processItem(item, itemXpath, arrayType, index);
+    }).filter((node: TreeNode | null) => node !== null) as TreeNode[];
+  }
+
+  private processItem(item: any, xpath: string, arrayType: string, index: number): TreeNode | null {
+    if (!item || typeof item !== 'object') {
+      return null;
+    }
+
+    const hasType = item.type !== undefined;
+    const label = hasType ? item.type : `${arrayType === 'para_blocks' ? 'block' : arrayType.slice(0, -1)}${index}`;
+    
+    const brief = this.extractBrief(item);
+
+    const node: TreeNode = {
+      label: label,
+      children: [],
+      leaf: false,
+      brief: brief,
+      xpath: xpath
+    };
+
+    Object.keys(item).forEach((key) => {
+      const value = item[key];
+
+      if (key === 'page_idx' || key === 'type') {
+        return;
+      }
+
+      if (Array.isArray(value)) {
+        const childNodes = this.processArray(value, xpath, key);
         if (childNodes.length > 0) {
           node.children!.push(...childNodes);
         }
       } else if (typeof value === 'object' && value !== null) {
-        const childNode = this.processBlock(value, currentXpath);
+        const childNode = this.processObject(value, xpath, key);
+        if (childNode) {
+          node.children!.push(childNode);
+        }
+      }
+    });
+
+    node.leaf = !node.children || node.children.length === 0;
+    return node;
+  }
+
+  private processObject(obj: any, xpath: string, key: string): TreeNode | null {
+    if (!obj || typeof obj !== 'object') {
+      return null;
+    }
+
+    const hasType = obj.type !== undefined;
+    const label = hasType ? obj.type : key;
+    
+    const brief = this.extractBrief(obj);
+
+    const node: TreeNode = {
+      label: label,
+      children: [],
+      leaf: false,
+      brief: brief,
+      xpath: `${xpath}/${key}`
+    };
+
+    Object.keys(obj).forEach((objKey) => {
+      const value = obj[objKey];
+
+      if (objKey === 'page_idx' || objKey === 'type') {
+        return;
+      }
+
+      if (Array.isArray(value)) {
+        const childNodes = this.processArray(value, node.xpath!, objKey);
+        if (childNodes.length > 0) {
+          node.children!.push(...childNodes);
+        }
+      } else if (typeof value === 'object' && value !== null) {
+        const childNode = this.processObject(value, node.xpath!, objKey);
         if (childNode) {
           node.children!.push(childNode);
         }

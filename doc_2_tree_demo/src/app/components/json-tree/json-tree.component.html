@@ -41,7 +41,7 @@
     <div class="selection-info">
       <div class="selection-header">
         <h3>Selected Nodes ({{ selectedNodes.length }})</h3>
-        <button pButton type="button" label="Export" (click)="exportSelectedNodes()"></button>
+        
       </div>
       <ul>
         @for (node of selectedNodes; track node) {
@@ -49,5 +49,6 @@
         }
       </ul>
     </div>
+    <button pButton type="button" label="Export" (click)="exportSelectedNodes()"></button>
   }
 </div>
